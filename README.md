@@ -1,2 +1,2 @@
-# prime
+#Algorithm(Sorting)
 ........
